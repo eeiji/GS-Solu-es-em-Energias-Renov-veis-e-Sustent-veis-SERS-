@@ -1,0 +1,8 @@
+equipamento,potencia_total_w,tempo_h_dia,dias_ano,consumo_atual_kwh_ano,consumo_apos_eficiencia_kwh_ano,observacao
+Iluminação das salas,5120,8,200,8192,4608,"160 lâmpadas; substituição de 32 W por LED de 18 W"
+Iluminação dos corredores,960,10,220,2112,1188,"30 lâmpadas; substituição de 32 W por LED de 18 W"
+Ventiladores,3200,5,160,2560,2176,"Redução estimada de 15% por controle de uso"
+Laboratório de informática,3600,4,180,2592,2073.6,"Redução estimada de 20% por configuração de economia"
+Computadores administrativos,800,8,220,1408,1196.8,"Redução estimada de 15% por desligamento automático"
+Projetores,1250,3,160,600,540,"Redução estimada de 10% por gestão de uso"
+Bomba de água,750,1,220,165,156.75,"Redução estimada de 5% por controle operacional"

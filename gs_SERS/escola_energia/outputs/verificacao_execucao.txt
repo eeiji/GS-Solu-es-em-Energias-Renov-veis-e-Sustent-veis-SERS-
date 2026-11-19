@@ -1,0 +1,15 @@
+                                       indicador     valor  unidade
+                                   Consumo atual 17,629.00  kWh/ano
+                         Consumo após eficiência 11,939.15  kWh/ano
+                         Economia com eficiência  5,689.85  kWh/ano
+                             Economia percentual     32.28        %
+                            Geração fotovoltaica 10,896.00  kWh/ano
+                    Participação solar potencial     91.26        %
+          Saldo energético anual teórico da rede  1,043.15  kWh/ano
+                   Custo variável atual estimado 13,915.98   R$/ano
+                  Custo variável após eficiência  9,424.53   R$/ano
+         Custo variável após saldo solar teórico    823.44   R$/ano
+                        Investimento LED + solar 26,110.90       R$
+Emissões evitadas estimadas (eficiência + solar)      0.76 tCO2/ano
+
+Arquivos gerados em: /mnt/data/escola_energia_package/outputs
